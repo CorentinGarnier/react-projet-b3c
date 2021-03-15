@@ -1,0 +1,22 @@
+
+.input-auth {
+    border-radius: 6px;
+    border: solid 2px #BCBDBD;
+    height: 40px;
+    width: 400px;
+    padding-left: 8px;
+}
+
+.btn-submit-auth {
+    border-radius: 6px;
+    width: 200px;
+    background: white;
+    color: black;
+    border: solid 2px #BCBDBD;
+    cursor: pointer;
+}
+
+.text-auth {
+    color: white;
+    font-size: 26px;
+}

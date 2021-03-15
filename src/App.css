@@ -1,0 +1,39 @@
+.App {
+  height: 100%;
+  text-align: center;
+  font-size: calc(10px + 1.5vmin);
+  display: flex;
+  flex-direction: column;
+  background: #424457;
+}
+
+.btn-game {
+  color: #FFFFFF;
+  border-radius: 6px;
+  width: 200px;
+  background: white;
+  color: black;
+  border: solid 2px #BCBDBD;
+  cursor: pointer;
+}
+
+.title {
+  color: #FFFFFF;
+  border: solid 2px;
+  border-radius: 8px;
+  width: 25%;
+  margin: 0 auto;
+  padding: 16px 16px;
+  margin-bottom: 64px;
+  font-size: 32px;
+}
+
+.answer {
+  color : yellow;
+
+}
+
+.answer:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}

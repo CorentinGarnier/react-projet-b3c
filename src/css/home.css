@@ -1,0 +1,18 @@
+
+.btn-start-play {
+    border-radius: 6px;
+    width: 200px;
+    background: white;
+    color: black;
+    border: solid 2px #BCBDBD;
+    cursor: pointer;
+}
+
+.home-title {
+    color: #FFFFFF;
+    border: solid 2px;
+    border-radius: 8px;
+    width: 25%;
+    margin: 0 auto;
+    padding: 16px 16px;
+}
